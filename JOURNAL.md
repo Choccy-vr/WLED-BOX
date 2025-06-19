@@ -17,4 +17,8 @@ created_at: "2025-06-19"
 
 - I also finished V1 of the PCB
 
+![](https://github.com/Choccy-vr/WLED-BOX/blob/main/Images/WLED_BOX_Sch.pdf)
+![](https://github.com/Choccy-vr/WLED-BOX/blob/main/Images/WLED_Box.png)
+![](https://github.com/Choccy-vr/WLED-BOX/blob/main/Images/WLED_Box_Bottom.png)
+
 ** Total Time Spent: 3h **
