@@ -4160,6 +4160,42 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "Data"
+		(at 129 57.77 270)
+		(layer "F.SilkS")
+		(uuid "26ad95c6-6ec1-4664-abf4-9245cf2510df")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "GND\n"
+		(at 134 57 0)
+		(layer "F.SilkS")
+		(uuid "5c2c6f70-dcd0-4f8a-8cc8-d6c5294bb18a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "VCC\n"
+		(at 122 57 0)
+		(layer "F.SilkS")
+		(uuid "d29683b9-c36a-4016-aff0-709945ab46b5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "WLED_BOX\nGinobeano\nV1\n"
 		(at 135 80 90)
 		(layer "B.SilkS")

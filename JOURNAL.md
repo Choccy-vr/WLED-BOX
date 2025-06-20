@@ -22,3 +22,23 @@ created_at: "2025-06-19"
 ![](https://github.com/Choccy-vr/WLED-BOX/blob/main/Images/WLED_Box_Bottom.png)
 
 ** Total Time Spent: 3h **
+
+# June 20th: CAD and Finishing Touches
+
+- I finished the case 
+
+- I added a cool hexagon pattern mostly becuase it looks cool but it also helps with air flow
+
+- I added the USB C Pwr in and the LED OUT
+
+- I also added the ESP's USB port in the case to allow for easy flashing
+
+- I am also working on getting it submitted  BOM, ReadMe, etc
+
+![WLED Box 2.png](E:\Projects\WLED-BOX\Images\WLED%20Box%202.png)
+
+
+
+![WLED Box.png](E:\Projects\WLED-BOX\Images\WLED%20Box.png)
+
+**Total Time Spent: 4h**
