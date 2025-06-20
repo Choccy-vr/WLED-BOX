@@ -5,6 +5,8 @@ description: "An easy way to control your LED Strip"
 created_at: "2025-06-19"
 ---
 
+# Total Time Spent: 8h
+
 # June 19th: Started Project & PCB
 
 - Started a new project, how cool!
@@ -37,8 +39,6 @@ created_at: "2025-06-19"
 
 ![WLED Box 2.png](E:\Projects\WLED-BOX\Images\WLED%20Box%202.png)
 
-
-
 ![WLED Box.png](E:\Projects\WLED-BOX\Images\WLED%20Box.png)
 
-**Total Time Spent: 4h**
+**Total Time Spent: 5h**
